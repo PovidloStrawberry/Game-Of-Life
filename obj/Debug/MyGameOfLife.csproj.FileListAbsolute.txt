@@ -1,0 +1,32 @@
+C:\Users\User\Desktop\c# prj\MyGameOfLife\bin\Debug\MyGameOfLife.exe.config
+C:\Users\User\Desktop\c# prj\MyGameOfLife\bin\Debug\MyGameOfLife.exe
+C:\Users\User\Desktop\c# prj\MyGameOfLife\bin\Debug\MyGameOfLife.pdb
+C:\Users\User\Desktop\c# prj\MyGameOfLife\obj\Debug\MyGameOfLife.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c# prj\MyGameOfLife\obj\Debug\MyGameOfLife.Form1.resources
+C:\Users\User\Desktop\c# prj\MyGameOfLife\obj\Debug\MyGameOfLife.Properties.Resources.resources
+C:\Users\User\Desktop\c# prj\MyGameOfLife\obj\Debug\MyGameOfLife.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c# prj\MyGameOfLife\obj\Debug\MyGameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c# prj\MyGameOfLife\obj\Debug\MyGameOfLife.exe
+C:\Users\User\Desktop\c# prj\MyGameOfLife\obj\Debug\MyGameOfLife.pdb
+C:\Users\matve\OneDrive\Рабочий стол\папки\MyGameOfLife\bin\Debug\MyGameOfLife.exe.config
+C:\Users\matve\OneDrive\Рабочий стол\папки\MyGameOfLife\bin\Debug\MyGameOfLife.exe
+C:\Users\matve\OneDrive\Рабочий стол\папки\MyGameOfLife\bin\Debug\MyGameOfLife.pdb
+C:\Users\matve\OneDrive\Рабочий стол\папки\MyGameOfLife\obj\Debug\MyGameOfLife.csproj.AssemblyReference.cache
+C:\Users\matve\OneDrive\Рабочий стол\папки\MyGameOfLife\obj\Debug\MyGameOfLife.csproj.SuggestedBindingRedirects.cache
+C:\Users\matve\OneDrive\Рабочий стол\папки\MyGameOfLife\obj\Debug\MyGameOfLife.Form1.resources
+C:\Users\matve\OneDrive\Рабочий стол\папки\MyGameOfLife\obj\Debug\MyGameOfLife.Properties.Resources.resources
+C:\Users\matve\OneDrive\Рабочий стол\папки\MyGameOfLife\obj\Debug\MyGameOfLife.csproj.GenerateResource.cache
+C:\Users\matve\OneDrive\Рабочий стол\папки\MyGameOfLife\obj\Debug\MyGameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\matve\OneDrive\Рабочий стол\папки\MyGameOfLife\obj\Debug\MyGameOfLife.exe
+C:\Users\matve\OneDrive\Рабочий стол\папки\MyGameOfLife\obj\Debug\MyGameOfLife.pdb
+C:\Users\matve\OneDrive\Рабочий стол\папки\c# prj\MyGameOfLife\bin\Debug\MyGameOfLife.exe.config
+C:\Users\matve\OneDrive\Рабочий стол\папки\c# prj\MyGameOfLife\bin\Debug\MyGameOfLife.exe
+C:\Users\matve\OneDrive\Рабочий стол\папки\c# prj\MyGameOfLife\bin\Debug\MyGameOfLife.pdb
+C:\Users\matve\OneDrive\Рабочий стол\папки\c# prj\MyGameOfLife\obj\Debug\MyGameOfLife.csproj.AssemblyReference.cache
+C:\Users\matve\OneDrive\Рабочий стол\папки\c# prj\MyGameOfLife\obj\Debug\MyGameOfLife.Form1.resources
+C:\Users\matve\OneDrive\Рабочий стол\папки\c# prj\MyGameOfLife\obj\Debug\MyGameOfLife.Properties.Resources.resources
+C:\Users\matve\OneDrive\Рабочий стол\папки\c# prj\MyGameOfLife\obj\Debug\MyGameOfLife.csproj.GenerateResource.cache
+C:\Users\matve\OneDrive\Рабочий стол\папки\c# prj\MyGameOfLife\obj\Debug\MyGameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\matve\OneDrive\Рабочий стол\папки\c# prj\MyGameOfLife\obj\Debug\MyGameOfLife.exe
+C:\Users\matve\OneDrive\Рабочий стол\папки\c# prj\MyGameOfLife\obj\Debug\MyGameOfLife.pdb
+C:\Users\matve\OneDrive\Рабочий стол\папки\c# prj\MyGameOfLife\obj\Debug\MyGameOfLife.csproj.SuggestedBindingRedirects.cache
